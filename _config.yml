@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: Urban Coyote Systems
+description: A web development company
+
+github:
+  is_project_page: false

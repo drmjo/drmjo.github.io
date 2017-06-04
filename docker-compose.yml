@@ -7,3 +7,4 @@ services:
       - ./:/src
     ports:
       - 4000:4000
+    tty: true
